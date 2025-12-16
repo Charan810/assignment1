@@ -1,0 +1,9 @@
+first make in the root folder and use folloing conmads for the execurtion
+
+
+./udp_client charlie.nplab.bth.se 5000 sapo21@student.bth.se
+./udp_client charlie.nplab.bth.se 5000 pal@bth.se
+for running udp udp_client
+
+./anim charlie.nplab.bth.se 2323
+for running tcp_client
